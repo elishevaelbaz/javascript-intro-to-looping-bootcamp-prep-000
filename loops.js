@@ -10,6 +10,13 @@ function forLoop(array){
   return array
 }
 
+function whileLoop(num){
+  while (num >= 0){
+    console.log(num)
+    num --
+  }
+  console.log("done")
+}
 // function makeArray() {
 //   const array = []
 //   const t = 10
