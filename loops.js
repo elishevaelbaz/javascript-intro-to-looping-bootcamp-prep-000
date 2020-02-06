@@ -18,6 +18,9 @@ function whileLoop(num){
   return "done"
 }
 
+function doWhileLoop(int){
+  
+}
 
 //   describe('whileLoop(n)', () => {
 //     it('counts down from n to 0', () => {
